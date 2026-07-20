@@ -206,17 +206,25 @@ cancel Ravi Kumar, 5 July
 
 ## Screenshots
 
-### Main Menu
+### <img width="603" height="1311" alt="main menu" src="https://github.com/user-attachments/assets/eddac0eb-128e-4b03-a687-d6cbe8cf8fe4" />
 
-### Appointment Booking
+### <img width="603" height="1311" alt="sending request" src="https://github.com/user-attachments/assets/f26ca15d-6593-4638-95e5-a991961654e1" />
 
-### Doctor Approval
 
-### Conflict Detection
+### <img width="603" height="1311" alt="appointment booking" src="https://github.com/user-attachments/assets/c31bf5ea-943a-4e33-b358-355b313505c5" />
 
-### Appointments Google Sheet
 
-### Conversation State Google Sheet
+### <img width="717" height="1600" alt="new appointment request" src="https://github.com/user-attachments/assets/fe61484a-d2e6-43fd-af33-d590edc94768" />
+
+### <img width="717" height="1600" alt="conflict detection" src="https://github.com/user-attachments/assets/54d9ba09-ec7b-41df-9d91-98aa3c0fdba4" />
+
+
+### <img width="1470" height="831" alt="appointments sheets" src="https://github.com/user-attachments/assets/e5f3ed29-a019-446f-8355-5ec03d0aed89" />
+
+### <img width="1470" height="831" alt="leads entry sheets" src="https://github.com/user-attachments/assets/903dbd73-06cd-4d7f-99a7-4c7b27a53380" />
+
+### <img width="603" height="1311" alt="confirmation" src="https://github.com/user-attachments/assets/6f6a7c41-9599-4781-ae2c-3012373553a5" />
+
 
 ## Future Improvements
 
